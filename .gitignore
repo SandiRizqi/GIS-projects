@@ -52,3 +52,11 @@ Thumbs.db
 
 # Project specific
 /venv/
+
+#GFoto
+*.jpg
+*JPEG
+*PNG
+*jp2
+*TIFF
+*tif
